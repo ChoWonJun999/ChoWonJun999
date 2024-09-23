@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/Um51bFE4ZlhnK0NBRDRzcWdjMUsrdz09
+
+<img src="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/Um51bFE4ZlhnK0NBRDRzcWdjMUsrdz09" alt="Lecos Badge" />
